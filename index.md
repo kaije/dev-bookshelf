@@ -7,7 +7,7 @@ title: "Dev Bookshelf"
 {% for book in site.data.books %}
   <p>
     <cite>{{ book.title }}</cite><br>
-    by {{- book.author }}
+    {{- book.author }}
     <br>
     <span class="reading-dates">
       Started {{ book.started || date: "%e %b" -}}
