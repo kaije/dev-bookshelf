@@ -1,0 +1,56 @@
+[
+    {
+        "author": "Donella H. Meadows",
+        "title": "Thinking in Systems: A Primer",
+        "status": "reading",
+        "started": "22/09/2021"
+    },
+    {
+        "author": "Mark Richards",
+        "title": "Fundamentals of Software Architecture",
+        "status": "reading",
+        "started": "16/05/2021"
+    },
+    {
+        "author": "Anne Gentle",
+        "title": "Docs Leke Code",
+        "status": "read",
+        "started": "30/09/2021",
+        "finished": "04/10/2021"
+    },
+    {
+        "author": "John Carreyrou",
+        "title": "Bad Blood: Secrets and Lies in a Silicon Valley Startup",
+        "status": "read",
+        "started": "03/09/2021",
+        "finished": "22/09/2021"
+    },
+    {
+        "author": "Matthew Skelton and Manuel Pais",
+        "title": "Team Topologies",
+        "status": "read",
+        "started": "25/06/2021",
+        "finished": "07/07/2021"
+    },
+    {
+        "author": "Brad Frost",
+        "title": "Atomic Design",
+        "status": "read",
+        "started": "26/05/2021",
+        "finished": "31/05/2021"
+    },
+    {
+        "author": "Mark Richards",
+        "title": "Software Architecture Patterns",
+        "status": "read",
+        "started": "14/05/2021",
+        "finished": "16/05/2021"        
+    },
+    {
+        "author": "Scott H Young",
+        "title": "Ultralearning: Seven Strategies for Mastering Hard Skills and Getting Ahead",
+        "status": "read",
+        "started": "22/04/2021",
+        "finished": "03/05/2021"         
+    }
+]
