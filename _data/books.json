@@ -145,6 +145,48 @@
         "finished": "23/03/2017"
     },
     {
+        "author": "Malcolm Gladwell",
+        "title": "Outliers",
+        "status": "read",
+        "started": "22/03/2016",
+        "finished": "30/03/2016"
+    },    
+    {
+        "author": "Robert Greene",
+        "title": "Mastery",
+        "status": "read",
+        "started": "12/01/2016",
+        "finished": "22/01/2016"
+    },      
+    {
+        "author": "William Zinsser",
+        "title": "Writing to Learn: How to Write - And Think - Clearly About Any Subject At All",
+        "status": "read",
+        "started": "25/02/2015",
+        "finished": "03/03/2015"
+    },    
+    {
+        "author": "Timothy D. Wildson",
+        "title": "Redirect: Changing the Stories We Live By",
+        "status": "read",
+        "started": "10/08/2014",
+        "finished": "17/08/2014"
+    },
+    {
+        "author": "David Allen",
+        "title": "Getting Things Done: The Art of Stress-Free Productivity",
+        "status": "read",
+        "started": "01/03/2014",
+        "finished": "15/03/2014"
+    },
+    {
+        "author": "Mihaly Csikszentmihalyi",
+        "title": "Flow: The Psychology of Optimal Experience",
+        "status": "read",
+        "started": "16/12/2013",
+        "finished": "11/01/2014"
+    },
+    {
         "author": "Robert C. Martin",
         "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
         "status": "read",
@@ -157,6 +199,13 @@
         "status": "read",
         "started": "20/11/2013",
         "finished": "12/12/2013"
+    },
+    {
+        "author": "Charles Duhigg",
+        "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+        "status": "read",
+        "started": "15/11/2013",
+        "finished": "07/12/2013"
     },
     {
         "author": "Jeff Atwood",
