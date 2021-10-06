@@ -6,7 +6,7 @@ title: "Dev Bookshelf"
 
 {% for book in site.data.books %}
   <p>
-    <cite>{{ book.title }}</cite><br>
+    <span class="book-title">{{ book.title }}</span><br>
     {{- book.author }}
     <br>
     <span class="reading-dates">
