@@ -9,11 +9,11 @@ title: "Dev Bookshelf"
     <cite>{{ book.title }}</cite> by {{ book.author }}
     <br>
     <span class="reading-dates">
-      Started {{ book.started || date: "%e %b"-}}
+      Started {{ book.started || date: "%e %b" -}}
       {%- if book.finished -%}
-        , finished {{ book.finished }}
+        , finished {{ book.finished || date: "%e %b, %Y" }}
       {%- else -%}
-        , still going
+        , still going!
       {%- endif -%}
     </span>
   </p>
