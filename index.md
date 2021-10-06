@@ -9,12 +9,12 @@ title: "Dev Bookshelf"
     <cite>{{ book.title }}</cite> by {{ book.author }}
     <br>
     <span>
-    Started {{ book.started }}
-    {% if book.finished %}
-    , finished {{ book.finished }}
-    {% else %}
-    , still going
-    {% endif %}
+      Started {{ book.started }}
+      {%- if book.finished -%}
+        , finished {{ book.finished }}
+      {%- else -%}
+        , still going
+      {%- endif -%}
     </span>
   </p>
 
