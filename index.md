@@ -10,11 +10,10 @@ title: "Dev Bookshelf"
     {{- book.author }}
     <br>
     <span class="reading-dates">
-      Started {{ book.started || date: "%e %b" -}}
       {%- if book.finished -%}
-        , finished {{ book.finished || date: "%e %b %Y" }}
+        Finished {{ book.finished || date: "%e %b %Y" }}
       {%- else -%}
-        , still going!
+        Started {{ book.started || date: "%e %b %Y" -}}, still going!
       {%- endif -%}
     </span>
   </p>
