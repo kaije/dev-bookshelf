@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Currently reading"
+title: "Dev Bookshelf"
 ---
-# Currently reading
+# Read in 2021
 
 {% for book in site.data.books %}
   <p>
