@@ -54,11 +54,46 @@
         "finished": "03/05/2021"
     },
     {
+        "author": "High Performance Habits: How Extraordinary People Become That Way",
+        "title": "Brendon Burchard",
+        "status": "read",
+        "started": "24/10/2019",
+        "finished": "11/11/2019"
+    },
+    {
+        "author": "The Checklist Manifesto: How to Get Things Right",
+        "title": "Atul Gawande",
+        "status": "read",
+        "started": "16/07/2019",
+        "finished": "27/08/2019"
+    },
+    {
         "author": "Gary Gruver, Tommy Mouser, Gene Kim",
         "title": "Leading the Transformation: Applying Agile and DevOps Principles at Scale",
         "status": "read",
         "started": "09/07/2018",
         "finished": "19/07/2018"
+    },
+    {
+        "author": "Cal Newport",
+        "title": "So Good they Can't Ignore You",
+        "status": "read",
+        "started": "22/06/2018",
+        "finished": "29/06/2018"
+    },
+    {
+        "author": "Daniel Coyle",
+        "title": "The Little Book of Talent",
+        "status": "read",
+        "started": "03/06/2018",
+        "finished": "05/06/2018"
+    },
+    {
+        "author": "Cal Newport",
+        "title": "Deep Work: Rules for Focused Success in a Distracted World",
+        "status": "read",
+        "started": "09/05/2018",
+        "finished": "17/05/2018"
     },
     {
         "author": "Matthew Linderman",
@@ -75,19 +110,40 @@
         "finished": "10/04/2018"
     },
     {
+        "author": "Margaret Heffernan",
+        "title": "Beyond Measure: The Big Impact of Small Changes",
+        "status": "read",
+        "started": "24/03/2018",
+        "finished": "27/03/2018"
+    },
+    {
         "author": "Gene Kim, Jez Humble, Patrick Debois, John Willis",
         "title": "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organisations",
         "status": "read",
         "started": "12/09/2017",
         "finished": "05/10/2017"
-    },    
+    },
+    {
+        "author": "Joshua Foer",
+        "title": "Moonwalking with Einstein: The Art and Science of Remembering Everything",
+        "status": "read",
+        "started": "20/06/2017",
+        "finished": "23/06/2017"
+    },   
+    {
+        "author": "Stephen R. Covey",
+        "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+        "status": "read",
+        "started": "24/03/2017",
+        "finished": "06/04/2017"
+    },     
     {
         "author": "Gene Kim, Kevin Behr, George Spafford",
         "title": "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win",
         "status": "read",
         "started": "13/03/2017",
         "finished": "23/03/2017"
-    },   
+    },
     {
         "author": "Robert C. Martin",
         "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
@@ -101,19 +157,19 @@
         "status": "read",
         "started": "20/11/2013",
         "finished": "12/12/2013"
-    },    
+    },
     {
         "author": "Jeff Atwood",
         "title": "How to Stop Sucking and Be Awesome Instead",
         "status": "read",
         "started": "12/09/2013",
         "finished": "20/11/2013"
-    },      
+    },
     {
         "author": "Steve McConnell",
         "title": "Code Complete",
         "status": "read",
         "started": "04/06/2011",
         "finished": "04/08/2011"
-    },         
+    },
 ]
