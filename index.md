@@ -10,7 +10,7 @@ title: "Dev Bookshelf"
     <br>
     <span>
     Started {{ book.started }}
-    {% if book.finished %}    
+    {% if book.finished %}
     , finished {{ book.finished }}
     {% else %}
     , still going
