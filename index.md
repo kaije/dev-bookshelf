@@ -9,7 +9,7 @@ title: "Dev Bookshelf"
     <cite>{{ book.title }}</cite> by {{ book.author }}
     <br>
     <span>
-      Started {{ book.started }}
+      Started {{ book.started -}}
       {%- if book.finished -%}
         , finished {{ book.finished }}
       {%- else -%}
