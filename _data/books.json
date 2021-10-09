@@ -3,13 +3,13 @@
         "author": "Donella H. Meadows",
         "title": "Thinking in Systems: A Primer",
         "status": "reading",
-        "started": "07/10/2021"
+        "started": "05/10/2021"
     },
     {
         "author": "Mark Richards",
         "title": "Fundamentals of Software Architecture",
         "status": "reading",
-        "started": "16/05/2021"
+        "started": "08/10/2021"
     },
     {
         "author": "Anne Gentle",
@@ -76,20 +76,6 @@
     },
     {
         "author": "Cal Newport",
-        "title": "So Good They Can't Ignore You",
-        "status": "read",
-        "started": "22/06/2018",
-        "finished": "29/06/2018"
-    },
-    {
-        "author": "Daniel Coyle",
-        "title": "The Little Book of Talent",
-        "status": "read",
-        "started": "03/06/2018",
-        "finished": "05/06/2018"
-    },
-    {
-        "author": "Cal Newport",
         "title": "Deep Work: Rules for Focused Success in a Distracted World",
         "status": "read",
         "started": "09/05/2018",
@@ -143,14 +129,7 @@
         "status": "read",
         "started": "13/03/2017",
         "finished": "23/03/2017"
-    },
-    {
-        "author": "Malcolm Gladwell",
-        "title": "Outliers",
-        "status": "read",
-        "started": "22/03/2016",
-        "finished": "30/03/2016"
-    },    
+    }, 
     {
         "author": "Robert Greene",
         "title": "Mastery",
