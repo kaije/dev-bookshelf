@@ -1,9 +1,16 @@
 [
+     {
+        "author": "Gene Kim",
+        "title": "The Unicorn Project: A Novel about Developers, Digital Disruption, and Thriving in the Age of Data",
+        "status": "reading",
+        "started": "27/03/2022"
+    },
     {
         "author": "Donella H. Meadows",
         "title": "Thinking in Systems: A Primer",
         "status": "reading",
-        "started": "05/10/2021"
+        "started": "05/10/2021",
+        "finished": "12/12/2021"
     },
     {
         "author": "Mark Richards",
