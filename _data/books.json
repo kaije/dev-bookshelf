@@ -1,9 +1,16 @@
 [
     {
-        "author": "Dominica DeGrandis",
+        "author": "Sarah Drasner",
         "title": "Making Work Visible, Second Edition",
         "status": "reading",
-        "started": "07/04/2022"
+        "started": "23/11/2022"
+    },    
+    {
+        "author": "Dominica DeGrandis",
+        "title": "Making Work Visible, Second Edition",
+        "status": "read",
+        "started": "07/04/2022",
+        "finished": "29/04/2022"
     },
      {
         "author": "Gene Kim",
